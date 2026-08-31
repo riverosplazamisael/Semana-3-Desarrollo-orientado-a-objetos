@@ -1,8 +1,0 @@
-Tu entrega se realizó correctamente. successful!
-Curso: 2026_203_OL_PRY2203_24650286_PCT, DESARROLLO ORIENTADO A OBJETOS II_001A
-Evaluación: Actividad Formativa 1: Explorando la sobrecarga y sobrescritura en clases derivadas
-
-Fecha de entrega: 18/8/26 2:39 (UTC-4) (Late)
-Tamaño de entrega: undefined
-Remitente: MISAEL ANTONIO RIVEROS PLAZA
-Número de confirmación: 4c1554681b0e438db0379f0cfddebb80
